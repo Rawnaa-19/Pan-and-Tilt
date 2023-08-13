@@ -10,6 +10,7 @@
 The second task for the Mechanical Department is to create a movement design for the neck joint. In order to create that I have used the pan and tilt mechanism using two servo motors. Pan refers to rotate horizontally "left and right" and tilt is to rotate vertically "up and down". The first servo motor placed in the base controls the x-axis motion "pan" and the second servo motor controls the y-axis motion "tilt".[^1]
 
 ## Pan and Tilt
+
 ### Components
 The servo motor used is the Metal Gear Dual Ball Bearing Digital Servo "MG996R".<br><br>
 <kbd> **Figure 1** <br><br>*Servo Motor*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Pan-and-Tilt/assets/106926557/9cb9a5ac-ba7b-4880-957c-075b0b98a723)</kbd></kbd><br><br>
